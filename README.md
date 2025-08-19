@@ -15,3 +15,7 @@ A repo to organize information and thoughts on AI
 This is a test and only a test.
 
 ## This is a change on GitHub
+
+
+### Link For Remote Repositories
+https://docs.github.com/en/get-started/git-basics/managing-remote-repositories

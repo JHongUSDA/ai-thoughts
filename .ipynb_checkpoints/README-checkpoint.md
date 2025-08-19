@@ -9,7 +9,3 @@ A repo to organize information and thoughts on AI
 2. then do this
 3. next do this
 4. fishish with these step
-
-## Adding more stuff
-
-This is a test and only a test.

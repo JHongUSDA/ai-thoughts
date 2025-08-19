@@ -3,3 +3,9 @@ A repo to organize information and thoughts on AI
 ## Things I want to do with AI
 * Imporve soilheath
 * Work while I sleep
+
+## Random list of the day
+1. first do this
+2. then do this
+3. next do this
+4. fishish with these step
